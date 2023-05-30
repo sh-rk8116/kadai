@@ -57,7 +57,7 @@ padding: 4px;
 }
 
 input{
-  transform: scale(0.9);
+  /* transform: scale(0.9); */
   vertical-align: middle;
 }
 
